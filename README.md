@@ -1,8 +1,8 @@
 # AutoUpdater
 A little program to auto update your program.  
 ![1](https://i.imgur.com/ELBLBeq.png)  
-## 使用教學：
-將AutoUpdater.exe、AutoUpdater.ini與你的程式放在一起  
+## 使用方式：
+將AutoUpdater.exe、AutoUpdater.ini與你的程式放置於同一目錄下  
   
 需要檢查更新時執行AutoUpdater.exe
 可參考此程式碼：
